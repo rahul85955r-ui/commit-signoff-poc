@@ -1,1 +1,1 @@
-Testing PR workflow for tickets 
+Testing PR workflow for ticket
